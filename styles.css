@@ -1,0 +1,111 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  /* Header Styles */
+  header {
+    background: #f4f4f4;
+    padding: 20px 0;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  nav ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  /* Button Styles */
+  .btn {
+    display: inline-block;
+    background: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-transform: uppercase;
+  }
+  
+  /* Cover Section Styles */
+  .cover {
+    background: #eaeaea;
+    padding: 100px 0;
+  }
+  
+  .cover h2 {
+    font-size: 36px;
+    margin: 0;
+  }
+  
+  .cover p {
+    font-size: 18px;
+  }
+  
+  /* Features Section Styles */
+  .features {
+    padding: 50px 0;
+  }
+  
+  .features .feature {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .features .feature img {
+    max-width: 100%;
+    border-radius: 5px;
+  }
+  
+  .features h3 {
+    margin: 20px 0;
+  }
+  
+  /* About Section Styles */
+  .about {
+    background: #f9f9f9;
+    padding: 50px 0;
+  }
+  
+  .about h2 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .team-members ul {
+    text-align: center;
+  }
+  
+  .team-members ul li {
+    display: inline;
+    margin: 0 10px;
+  }
+  
+  .team-members ul li a {
+    color: #333;
+  }
+  
